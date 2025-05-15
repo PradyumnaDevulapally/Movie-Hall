@@ -1,10 +1,10 @@
-# 🎬 Movie Hall Booking System
+# Movie Hall Booking System
 
 This is a simple seat booking and hall management system built using **Vanilla JavaScript**, **HTML**, and **CSS**. It allows users to create movie halls, define show details, and manage seat bookings interactively.
 
 ---
 
-## 🔧 Features
+## Features
 
 - Add new movie halls with:
   - Hall name
@@ -19,15 +19,15 @@ This is a simple seat booking and hall management system built using **Vanilla J
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 | Booking Layout | Form Interface | Hall Listing | Seat View |
 |----------------|----------------|--------------|-----------|
-| ![screenshot1](images/screenshot1.png) | ![screenshot2](images/screenshot2.png) | ![screenshot3](images/screenshot3.png) | ![screenshot4](images/screenshot4.png) |
+| ![](images/screenshot1.png) | ![](images/screenshot2.png) | ![](images/screenshot3.png) | ![](images/screenshot4.png) |
 
 ---
 
-## 📂 Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
@@ -36,34 +36,29 @@ This is a simple seat booking and hall management system built using **Vanilla J
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 
-git clone https://github.com/PradyumnaDevulapally/Movie-Hall.git
+  git clone https://github.com/PradyumnaDevulapally/Movie-Hall.git
+
 
 2. Navigate to the folder:
 
-cd Movie-Hall
+  cd Movie-Hall
+
 
 3. Open `index.html` in your browser.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **D.V. Satya Pradyumna**  
 Final-year CSE Student
 
 ---
 
-## 🏷️ License
+## License
 
 This project is for educational/demo purposes. No license attached.
-
-
-## 🖼️ Screenshots
-
-| Booking Layout | Form Interface | Hall Listing | Seat View |
-|----------------|----------------|--------------|-----------|
-| ![](images/screenshot1.png) | ![](images/screenshot2.png) | ![](images/screenshot3.png) | ![](images/screenshot4.png) |
