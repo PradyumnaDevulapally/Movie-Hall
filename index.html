@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Hall Booking</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="hallList"></div>
+    <button onclick="displayHalls()">Show Halls</button>
+    <form id="hallForm">
+        <div class="form-grid">
+            <label>Name: <input type="text" id="hallName" required></label><br>
+            <label>Owner: <input type="text" id="owner" required></label><br>
+            <label>Price: <input type="number" id="price" required></label><br>
+            <label>Show Timings: <input type="text" id="timings" required></label><br>
+            <label>Rows: <input type="number" id="rows" required></label><br>
+            <label>Columns: <input type="number" id="cols" required></label><br>
+        </div>
+        <button type="submit">Add Hall</button>
+    </form>
+    <div id="seatLayout"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
