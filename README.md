@@ -1,5 +1,10 @@
 # Movie Hall Booking System
 
+## Live Demo
+
+[Click here to view the live project](https://pradyumnadevulapally.github.io/Movie-Hall/)
+
+
 This is a simple seat booking and hall management system built using **Vanilla JavaScript**, **HTML**, and **CSS**. It allows users to create movie halls, define show details, and manage seat bookings interactively.
 
 ---
